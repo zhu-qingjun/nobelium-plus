@@ -1,8 +1,8 @@
 const BLOG = {
-  title: '左蓝',
-  author: '左蓝',
-  email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
+  title: '滴青蓝',
+  author: '祝轻君',
+  email: 'zhuqingjun46@gmail.com',
+  link: 'https://www.zhuqingjun.com',
   newsletter: '左蓝的周刊',
   description: '一个静悄悄的博客.',
   notes: '左蓝的笔记',
