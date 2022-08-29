@@ -3,9 +3,9 @@ const BLOG = {
   author: '祝轻君',
   email: 'zhuqingjun46@gmail.com',
   link: 'https://www.zhuqingjun.com',
-  newsletter: '左蓝的周刊',
-  description: '一个静悄悄的博客.',
-  notes: '左蓝的笔记',
+  newsletter: '祝轻君的周刊',
+  description: '胡言乱语，偶尔更新。',
+  notes: '祝轻君的笔记',
   notesNav: {
     index: '全部笔记',
     blog: '返回博客',
@@ -22,8 +22,8 @@ const BLOG = {
   lightBackground: '#F6F8FA', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#212936', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2015, // If leave this empty, current year will be used.
-  postsPerPage: 10,
+  since: 2016, // If leave this empty, current year will be used.
+  postsPerPage: 100,
   sortByDate: true,
   showAbout: true,
   showArchive: true,
@@ -31,12 +31,12 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
+    twitter: 'https://twitter.com/zhu-qingjun',
+    github: 'https://github.com/zhu-qingjun',
+    telegram: 'https://t.me/QingliaoBot'
   },
   seo: {
-    keywords: ['左蓝', 'Zuolan', 'Blog'],
+    keywords: ['祝轻君', 'Notion', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
