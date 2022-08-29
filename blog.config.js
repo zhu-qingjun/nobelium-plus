@@ -13,8 +13,8 @@ const BLOG = {
   },
   notesLink: {
     index: '/',
-    blog: 'https://zuolan.me',
-    contact: 'https://zuolan.me/contact'
+    blog: 'https://www.zhuqingjun.com',
+    contact: 'https://www.zhuqingjun.com/contact'
   },
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
